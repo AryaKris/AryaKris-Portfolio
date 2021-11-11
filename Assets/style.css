@@ -30,18 +30,35 @@ header {
 
 h1 {
   font-size: 200%;
-
 }
- .flex-item-holder{
-  display: flex;
-  justify-content: space-between;
-  margin-top: 20px;
-} 
-
-.flex-container-aboutme {
+ 
+.fc-aboutme {
   display: flex;
   flex-wrap: wrap;
 }
+
+.flex-item-left-aboutme {
+  background-color: #ffffff;
+  padding: 75px;
+  flex: 25%;
+  text-align: left;
+  font-size: 30px;
+  border-right: 5px solid navy;
+}
+
+.flex-item-right-aboutme {
+  background-color: #f1f1f1;
+  padding: 25px;
+  flex: 75%;
+  font-size: 20px;
+  text-align: right;
+}
+
+.flex-item-holder{
+  display: flex;
+  margin-top: 20px;
+} 
+
 .flex-item-left {
   background-color: #ffffff;
   padding: 75px;
@@ -55,14 +72,31 @@ h1 {
   background-color: #f1f1f1;
   padding: 25px;
   flex: 75%;
-  font-size: 20px;
-  text-align: right;
 }
-#work .flex-item-right{
-  background-color: lightblue;
-  display: grid;
-  
-} 
+
+.flex-container-row {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  justify-content: center;
+}
+
+.SEO-Optimization {
+  margin: 5px;
+  max-width:100%;
+}
+
+.flex-container-column  {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  flex: 2 1 auto; 
+}
+
+.mern-Stack {
+  margin: 5px;
+  max-width:100%;
+}
 
 /* style the top navigation bar */
 nav  {
@@ -71,9 +105,7 @@ nav  {
   justify-content:space-between;
   min-width: 300px;
   list-style: none;
-  text-decoration: underline;
-  
-  
+  text-decoration: underline; 
 }
 /* To turn the color of the links in the navbar to white */
 a {
@@ -86,18 +118,17 @@ a:hover {
   color: black;
 }
 
-
-
 #contactme  a{
   color: black;
 }
-.flex-container > div {
+.fc-header > div {
   background-color: lightblue;
   margin: 10px;
   padding: 10px;
   font-size: 30px;
   text-decoration-color: darkgrey;
 }
+
 .hero-image{
   height: 200px;
   background-image: url("https://thedotdev.com/wp-content/uploads/2019/07/portfolio-banner.png");
@@ -117,10 +148,9 @@ img {
 .hero-image img{
   border-radius: 50%;
   max-width: 200px;
-  max-height: 200px;
-  
-  
+  max-height: 200px; 
 }
+
 
 
 .footer {
@@ -130,11 +160,8 @@ img {
     text-align: center;
 }
 
-
-
-
 @media (max-width: 800px) {
   .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }
+    
+  flex: 100px;}
 }
