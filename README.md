@@ -7,6 +7,6 @@ This part includes the declarative header section, the body (where I tried to ad
 I also added a reset.css to avoid issues with browser inconsistencies. 
 The portfolio has my name "Arya Krishna" with a recent photo and links to sections about me. All the navigation links takes to the corresponding section . The acceptance criteria required the first application (in work) to be larger than the other applications. Also, when the image is clicked it takes to the deployed applications. I finally set the page to be able to be viewed in various screens and devices. 
 
-Link to the deployed application - [I'm an inline-style link] (https://aryakris.github.io/AryaKris-Portfolio/)
+Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfolio/)
 
-![alt text](./Assets/Images/Arya Krishna.png/)
+![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/Arya%20Krishna.png)
