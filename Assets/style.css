@@ -11,7 +11,7 @@ main {
 }
 /* sets the styling properties for the body */
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
   margin: 0;
   /* turns this element into a flexbox */
   display: flex;
