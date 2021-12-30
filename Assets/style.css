@@ -152,6 +152,7 @@ img {
   margin: 5px;
   max-width:100%;
   max-height: 400px;
+  width: 100%;
 }
 
 .contact-links{
@@ -163,6 +164,17 @@ img {
 .footer { 
   padding: 30px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+.gitHubBtn{
+  width:75px;
+  margin:0;
+  align-self: center;
+
+}
+.center-container{
+  /* justify-content: center; */
+  /* display: flex; */
   text-align: center;
 }
 /* Responsive layout - makes a one column layout instead of a two-column layout */
