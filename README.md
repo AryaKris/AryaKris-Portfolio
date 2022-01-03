@@ -9,4 +9,4 @@ The portfolio has my name "Arya Krishna" with a recent photo and links to sectio
 
 Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfolio/)
 
-![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/Arya%20Krishna.png)
+![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/Assets/Images/Arya%20Krishna.png)
