@@ -14,7 +14,11 @@ Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfol
 ![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/Assets/Images/Arya%20Krishna.png)
 
 # Updating the portfolio
-Added the updated projects and assignments github links and deployed application link to the work section of portfolio. 
+* Added examples of work from deployed project and homeworks
+* Added Links to GitHub profile and LinkedIn profile
+* Added a link to downloadable PDF of my resume
+* The final step was making sure the portfolio is mobile responsive
+
 
 ![alt text](./Assets/Images/FullPage.png)
 
