@@ -178,11 +178,16 @@ img {
   text-align: center;
 }
 /* Responsive layout - makes a one column layout instead of a two-column layout */
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   .flex-item-holder, .flex-item-right, .flex-item-left, .flex-container-column, .flex-container-row {
     flex: 100%;
     flex-wrap: wrap;
+  
   }
+  .galleryImage {
+    width: 100%;
+  }
+  
 }
 
   
