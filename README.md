@@ -22,3 +22,8 @@ Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfol
 
 ![alt text](./Assets/Images/FullPage.png)
 
+## 📝 License
+
+Copyright © 2021 [Arya Krishna](https://github.com/AryaKris). <br />
+This project is [MIT](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/LICENSE) licensed.
+
