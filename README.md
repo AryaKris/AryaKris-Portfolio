@@ -11,7 +11,7 @@ The portfolio has my name "Arya Krishna" with a recent photo and links to sectio
 
 Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfolio/)
 
-![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/Assets/Images/Arya%20Krishna.png)
+![alt text](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/assets/Images/Arya%20Krishna.png)
 
 # Updating the portfolio
 * Added examples of work from deployed project and homeworks
@@ -22,8 +22,15 @@ Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfol
 
 ![alt text](./assets/Images/FullPage.png)
 
+# Updating the portfolio
+
+* Updated the resume attached
+* Updated the LinkedIn profile 
+
 ## 📝 License
 
 Copyright © 2021 [Arya Krishna](https://github.com/AryaKris). <br />
 This project is [MIT](https://github.com/AryaKris/AryaKris-Portfolio/blob/main/LICENSE) licensed.
+
+
 
