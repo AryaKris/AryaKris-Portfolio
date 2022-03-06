@@ -20,7 +20,7 @@ Link to the deployed application -  (https://aryakris.github.io/AryaKris-Portfol
 * The final step was making sure the portfolio is mobile responsive
 
 
-![alt text](./Assets/Images/FullPage.png)
+![alt text](./assets/Images/FullPage.png)
 
 ## 📝 License
 
